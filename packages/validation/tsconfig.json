@@ -1,0 +1,4 @@
+{
+  "extends": "@mywell/config/tsconfig/package.json",
+  "include": ["src"]
+}

@@ -1,0 +1,12 @@
+{
+  "appName": "MyWell",
+  "loading": "Đang tải...",
+  "save": "Lưu",
+  "cancel": "Huỷ",
+  "delete": "Xoá",
+  "search": "Tìm kiếm",
+  "theme": "Giao diện",
+  "language": "Ngôn ngữ",
+  "logout": "Đăng xuất",
+  "welcome": "Xin chào, {name}"
+}

@@ -1,0 +1,6 @@
+{
+  "generic": "An error occurred",
+  "network": "Network error",
+  "unauthorized": "You are not signed in",
+  "forbidden": "You do not have access"
+}

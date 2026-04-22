@@ -1,0 +1,12 @@
+{
+  "appName": "MyWell",
+  "loading": "Loading...",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "search": "Search",
+  "theme": "Theme",
+  "language": "Language",
+  "logout": "Log out",
+  "welcome": "Hello, {name}"
+}
